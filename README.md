@@ -1,4 +1,4 @@
-# DiscordBotSRDR <img src="https://img.shields.io/discord/731092997772410900?logo=discord&style=for-the-badge" />     
+# Discord Bot - SRDR <img src="https://img.shields.io/discord/731092997772410900?logo=discord&style=for-the-badge" />     
 
 # Information
 * This Bot was made for SRDR, a Stormworks: Build & Rescue Community.
