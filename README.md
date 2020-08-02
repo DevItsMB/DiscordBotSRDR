@@ -2,6 +2,7 @@
 
 # Information
 This Bot was made for SRDR, a Stormworks: Build & Rescue Community.
+Remember: This Bot is fully custom made for SRDR.
     
 <table width="100%"> 
   <tr>
