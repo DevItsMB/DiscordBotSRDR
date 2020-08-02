@@ -52,7 +52,7 @@
 
 => In a command prompt in your projects folder (wherever that may be) run the following:
 
-`git clone https://github.com/DevItsMB/Discord-Bot-Template.git`
+`git clone https://github.com/DevItsMB/DiscordBotSRDR.git`
 * In the folder from where you ran the git command, run `npm install`to install the dependencies
 
 # Important
