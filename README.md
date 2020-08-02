@@ -27,7 +27,7 @@ NOTE: Replace "your_bot_token_here" with your own custom token.
 
 # Starting the Bot
 * To start the bot, in the command prompt, run the following command: `node app.js`
-* Or run the `run.bat`, that will start the bot for you
+* Or run the `start.bat`, that will start the bot for you
 
 
 
