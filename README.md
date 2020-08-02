@@ -3,10 +3,10 @@
 # Information
 This Bot was made for SRDR, a Stormworks: Build & Rescue Community.
     
-    <img src="https://file.coffee/u/V8PR2wum9.png" />
-
-https://file.coffee/u/1QJx7l-x1.png
-
+<p align="center">
+    <img src="https://file.coffee/u/1QJx7l-x1.png" />
+  </a>
+</p>
 
 
 # Requirements
