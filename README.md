@@ -11,6 +11,7 @@ This Bot was made for SRDR, a Stormworks: Build & Rescue Community.
 </table>
 
 
+# Commands
 
 
 
