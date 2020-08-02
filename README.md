@@ -38,7 +38,7 @@ This Bot was made for SRDR, a Stormworks: Build & Rescue Community.
     <td><code>$donkk-track2</code></td>
     <td>Administrator</td>
 	<td>Info about Donkk Track 2</td>
-
+</table>
 
 
 
