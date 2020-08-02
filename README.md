@@ -2,8 +2,10 @@
 
 # Information
 This Bot was made for SRDR, a Stormworks: Build & Rescue Community.
-<img src="https://file.coffee/u/V8PR2wum9.png" />
-
+    <a href="https://github.com/DevItsMB/Discord-Bot-Template/blob/master/LICENSE">
+    <img src="https://file.coffee/u/V8PR2wum9.png" /><p align="center">
+  </a>
+</p>
 
 
 # Requirements
