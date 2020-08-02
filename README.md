@@ -1,7 +1,7 @@
 # DiscordBotSRDR <img src="https://img.shields.io/discord/731092997772410900?logo=discord&style=for-the-badge" />     
 
 # Information
-This Bot was made for SRDR, a Stormworks: Build & Rescue Community. https://file.coffee/u/V8PR2wum9.png
+This Bot was made for SRDR, a Stormworks: Build & Rescue Community.
 <p align="center">
    <img src="https://file.coffee/u/V8PR2wum9.png" />
 </p>
